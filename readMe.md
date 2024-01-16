@@ -2,6 +2,8 @@
 Projeto intitulado *Verdejá*. Trata-se de uma landing page de E-commerce voltado para a área de jardinagem. <br>
 Desenvolvido em *Html e CSS* mesclando *Flexbox e CSS Grid*.
 
+Para ver o projeto na íntegra: https://carloscamposb.github.io/VerdeJa-LandingPage-/
+
 ![e-commerce jardinagem](https://user-images.githubusercontent.com/108171029/186573308-0665cd81-f48d-47fc-9d64-4829f9bcb3b3.png)
 
 ### Imagens utilizadas (Referência: Pinterest)  
